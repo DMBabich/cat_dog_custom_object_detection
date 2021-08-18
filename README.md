@@ -1,2 +1,2 @@
-# cat_dog_custom_object_detection
+# cat and dog custom object detection with TensorFlow
 ---
