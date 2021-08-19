@@ -72,4 +72,6 @@ As you can see - custom model better prediction bbox coordinates. But classifica
 
 ## Links
 
-- [x] 
+- [X] [Custom model CNN](https://drive.google.com/file/d/1pnvjx2klYlTPiPhJXVzaLNMkboPZ8M0u/view?usp=sharing)
+- [X] [Transfer model CNN](https://drive.google.com/file/d/1PgLgtM1cprIpNDoCALg-9Sq4YWZVzeOL/view?usp=sharing)
+- [ ] Dataset
