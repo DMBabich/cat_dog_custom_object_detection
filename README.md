@@ -37,13 +37,14 @@ The [albumentation](https://albumentations.ai/) library was used for augmentatio
 ---
 ---
 
-### Plot
+## Plot
 
 _Custom CNN Model_
 
 [Architecture](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/Custom_detection_CNN.png)
 <br>[Accuracy](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Custom_CNN_acc.png)
 <br>[mIoU](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Custom_CNN_mIoU.png)
+<br>[Prediction](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/prediction_custom.png)
 
 
 _Transfer CNN Model (VGG16)_
@@ -51,4 +52,23 @@ _Transfer CNN Model (VGG16)_
 [Architecture](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/Transfer_detection_VGG16.png)
 <br>[Accuracy](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Transfer_VGG16_CNN_acc.png)
 <br>[mIoU](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Transfer_VGG16_CNN_mIoU.png)
+<br>[Prediction](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/prediction_transfer_learning.png)
+
+---
+
+## Conclusion
+
+As you can see - custom model better prediction bbox coordinates. But classificator undertrained.
+<br>Also transfer model have better classificator. But bbox coordinates is very bad.
+
+**It's a training project. You can make it better :)**
+<br>_How?_
+<br>Try:
+- [ ] Make more augmentation data and add more test data
+- [ ] Edit depth of models
+- [ ] Tune a models better
+
+---
+
+## Links
 
