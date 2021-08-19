@@ -40,3 +40,8 @@ The [albumentation](https://albumentations.ai/) library was used for augmentatio
 ### Plot
 
 _Custom CNN Model_
+
+[Architecture]()
+<br>[Accuracy]()
+<br>[mIoU]()
+
