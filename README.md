@@ -33,3 +33,9 @@ It is necessary to solve the problem of localization and classification in the i
 <br>MIoU and classification accuracy should work as precision metrics.
 
 The [albumentation](https://albumentations.ai/) library was used for augmentation because it scales the bbox along with the image. 
+
+---
+---
+
+### Plot
+
