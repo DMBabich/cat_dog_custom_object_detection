@@ -1,9 +1,9 @@
 # cat and dog custom object detection with TensorFlow2
 ---
 ---
-RUS
+RUS Task
 
-ENG
+ENG Task
 
 Plot
 
