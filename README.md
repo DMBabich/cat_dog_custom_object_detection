@@ -41,7 +41,14 @@ The [albumentation](https://albumentations.ai/) library was used for augmentatio
 
 _Custom CNN Model_
 
-[Architecture]()
-<br>[Accuracy]()
-<br>[mIoU]()
+[Architecture](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/Custom_detection_CNN.png)
+<br>[Accuracy](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Custom_CNN_acc.png)
+<br>[mIoU](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Custom_CNN_mIoU.png)
+
+
+_Transfer CNN Model (VGG16)_
+
+[Architecture](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/Transfer_detection_VGG16.png)
+<br>[Accuracy](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Transfer_VGG16_CNN_acc.png)
+<br>[mIoU](https://github.com/DMBabich/cat_dog_custom_object_detection/blob/main/plots/small_Transfer_VGG16_CNN_mIoU.png)
 
