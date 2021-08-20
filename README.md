@@ -2,15 +2,15 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DMBabich/cat_dog_custom_object_detection/blob/main/CV_OD_ALL.ipynb)
 ---
 ---
-RUS Task
+[RUS Task](https://github.com/DMBabich/cat_dog_custom_object_detection#rus)
 
-ENG Task
+[ENG Task](https://github.com/DMBabich/cat_dog_custom_object_detection#eng)
 
-Plot
+[Plot](https://github.com/DMBabich/cat_dog_custom_object_detection#eng)
 
-Conclusion
+[Conclusion](https://github.com/DMBabich/cat_dog_custom_object_detection#conclusion)
 
-Links
+[Links](https://github.com/DMBabich/cat_dog_custom_object_detection#links)
 
 ---
 ---
@@ -75,4 +75,4 @@ As you can see - custom model better prediction bbox coordinates. But classifica
 
 - [X] [Custom model CNN](https://drive.google.com/file/d/1pnvjx2klYlTPiPhJXVzaLNMkboPZ8M0u/view?usp=sharing)
 - [X] [Transfer model CNN](https://drive.google.com/file/d/1PgLgtM1cprIpNDoCALg-9Sq4YWZVzeOL/view?usp=sharing)
-- [ ] Dataset
+- [X] [Dataset](https://drive.google.com/file/d/1Lgq5KD9ZrW1WTeIVGgNyL32wv3YHOn-1/view?usp=sharing)
