@@ -6,7 +6,7 @@
 
 [ENG Task](https://github.com/DMBabich/cat_dog_custom_object_detection#eng)
 
-[Plot](https://github.com/DMBabich/cat_dog_custom_object_detection#eng)
+[Plot](https://github.com/DMBabich/cat_dog_custom_object_detection#plot)
 
 [Conclusion](https://github.com/DMBabich/cat_dog_custom_object_detection#conclusion)
 
